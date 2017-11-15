@@ -1,0 +1,29 @@
+0000000000000000000000000000000000000000
+0  x   f c e f f i h i f c e f f x     0
+0      f c j f f i i i f c j f f       0
+0      f c e f f y i y f c e f f       0
+0      f c e f f   i   f c e f f       0
+0a b c f a b c f a b c f a b c f a b c 0
+0d e f f d e f f d e f f d e f f d e f 0
+0    g f g g g f g g g f g g g f g     0
+0    a f b c d f e f e f d c b f a     0
+0    y f a b c f d e d f c b a f y     0
+0          a b f c d c f b a           0
+0            a f b c b f a             0
+0              f a f a f               0
+0                  j                   0
+0                                      0
+0                                      0
+0                                      0
+0                                      0
+0                                      0
+0                                      0
+0                                      0
+0                                      0
+0                                      0
+0                                      0
+0                                      0
+0                                      0
+0                                      0
+0                                      0
+0                                      0
