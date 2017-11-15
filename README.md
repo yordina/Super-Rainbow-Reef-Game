@@ -1,4 +1,6 @@
 # Super-Rainbow-Reef-Game
-This is a game made for a software development class. To play the gae:
-- Use the space button to shoot 
-- Use the left and right arrow buttons to move the KAtch left and right respectively.
+This is a game made for a software development class. To play the game:
+SPACE- to shoot the first movement of the pop
+LEFT - move Katch left
+RIGHT- move Katch right
+
